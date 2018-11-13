@@ -1,0 +1,6 @@
+Drinks
+-------------
+
+tea
+fruit juice
+coffee
